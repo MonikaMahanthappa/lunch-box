@@ -23,4 +23,6 @@
 /*.sublime-workspace
 
 .idea
+config/database.yml
+vendor/bundle
 
